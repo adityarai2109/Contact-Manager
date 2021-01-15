@@ -1,0 +1,13 @@
+.list-heading {
+  text-align: center;
+}
+.nav-options {
+  display: flex;
+}
+
+.react-link:hover {
+  text-decoration: none;
+}
+span {
+  font-weight: bold;
+}
